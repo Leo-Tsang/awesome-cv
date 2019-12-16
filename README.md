@@ -5,7 +5,7 @@ I tried creating my CV with awesome CV from https://github.com/posquit0/Awesome-
 
 #### Résumé
 
-You can download here: [PDF](https://github.com/Leo-Tsang/awesome-cv/blob/master/LEO_RESUME.pdf)
+You can download here: [PDF](https://github.com/Leo-Tsang/awesome-cv/raw/master/LEO_RESUME.pdf)
 
 ## Preview
 [![Résumé](https://github.com/Leo-Tsang/awesome-cv/blob/master/LEO_RESUME.png)](https://github.com/Leo-Tsang/awesome-cv/blob/master/LEO_RESUME.pdf)
