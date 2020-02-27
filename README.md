@@ -8,5 +8,5 @@ I tried creating my CV with awesome CV from https://github.com/posquit0/Awesome-
 You can download here: [PDF](https://github.com/Leo-Tsang/awesome-cv/raw/master/LEO_RESUME.pdf)
 
 ## Preview
-[![Résumé](https://raw.githubusercontent.com/Leo-Tsang/awesome-cv/master/LEO_RESUME.png)](https://github.com/Leo-Tsang/awesome-cv/blob/master/LEO_RESUME.pdf)
+[![Résumé](https://github.com/Leo-Tsang/awesome-cv/blob/master/Leo_s_Resume.png)](https://github.com/Leo-Tsang/awesome-cv/blob/master/LEO_RESUME.pdf)
 
